@@ -1,8 +1,11 @@
-## DSA495 - Constitutional Respect and Supreme Court Open-Ended Response Analysis
+# DSA495 - Constitutional Respect and Supreme Court Open-Ended Response Analysis
 **Student:** Alexus Livesey
-# Project Purpose
+## Project Purpose
 
-# Documentation needed for Reproducibility
-1. 
+## Documentation needed for Reproducibility
+- ConstitutionalTopicModel.ipynb:
+- LegislationTreatmentTopicModel.ipynb
+- con.csv
+- leg.csv
 
-# How to Run the Analysis
+## How to Run the Analysis
