@@ -12,3 +12,15 @@
 
 ## How to Run the Analysis
 Step-by-step rerun instructions 
+
+
+
+
+
+
+
+
+## AI Use Statement 
+-  Umap
+-  stop words
+-  keywords do not overlap on bar chart
