@@ -1,5 +1,5 @@
 # DSA495 - Constitutional Respect and Supreme Court Open-Ended Response Analysis
-**Student:** Alexus Livesey
+Alexus Livesey
 
 ## Project Purpose
 This project will analyze open-ended survey responses from a political science public opinion survey administered during Spring 2026.
